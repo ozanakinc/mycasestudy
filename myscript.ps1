@@ -61,3 +61,4 @@ switch ($Action) {
         Write-Output "  .\myscript.ps1 backup <source_folder> <destination_folder>"
     }
 }
+
